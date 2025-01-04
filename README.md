@@ -104,12 +104,6 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📧 Contact
 
 For any queries or feedback:  
@@ -119,19 +113,4 @@ For any queries or feedback:
 
 ---
 
-Feel free to customize this template by adding screenshots, videos, or additional sections based on your app's specific features!# chat_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
