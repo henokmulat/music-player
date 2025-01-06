@@ -51,7 +51,7 @@ A sleek, feature-rich music player app built with Flutter, designed to enhance y
 ## 📸 Screenshots
 
 **Home Screen**  
-![Home Screen](homescreen.jpg)
+![Home Screen](home_screen.jpg)
 
 **Playlist Page**  
 ![music List](musiclist.jpg)
