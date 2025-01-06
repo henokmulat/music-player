@@ -15,7 +15,6 @@ A sleek, feature-rich music player app built with Flutter, designed to enhance y
 - 📂 **Create and Manage Playlists**: Organize your music into personalized playlists.
 - 🌟 **Custom Themes**: The app adapts to your preferred theme based on the selected album art.
 - 📈 **Music Visualization**: Stunning audio waveforms and animations for a dynamic playback experience.
-- 🎛️ **Equalizer Support**: Adjust sound settings for the perfect audio experience.
 - 🛠️ **Background Playback**: Continue listening while using other apps.
 
 ---
@@ -49,9 +48,20 @@ A sleek, feature-rich music player app built with Flutter, designed to enhance y
 
 ## 🖌️ App Preview
 
-| Home Screen                           | Player Screen                        | Playlist Management                      |
-| ------------------------------------- | ------------------------------------ | ---------------------------------------- | --------------------------------- |
-| ![Home](assets/images/homescreen.jpg) | ![Player](assets/images/players.jpg) | ![Playlist](assets/images/musiclist.jpg) | ![Theme](assets/images/theme.jpg) |
+## 📸 Screenshots
+
+**Home Screen**  
+![Home Screen](homescreen.jpg)
+
+**Playlist Page**  
+![music List](musiclist.jpg)
+
+**Player Page**  
+![music List](players.jpg)
+
+**Theme Page**  
+![Theme Page](theme.jpg)
+
 
 ---
 
@@ -60,7 +70,7 @@ A sleek, feature-rich music player app built with Flutter, designed to enhance y
 - **Flutter**: Frontend framework for building cross-platform apps.
 - **audioplayers**: For seamless music playback.
 - **on_audio_query**: To access and manage local music files.
-- **Hive**/**sqflite**: For offline playlist and app data storage.
+- **sqflite**: For offline playlist and app data storage.
 - **audio_waveforms**: For real-time audio visualization.
 
 ---
