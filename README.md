@@ -117,9 +117,9 @@ Contributions are welcome! Follow these steps:
 ## 📧 Contact
 
 For any queries or feedback:  
-**Name:** Your Name  
-**Email:** your-email@example.com  
-**GitHub:** [Your GitHub Profile](https://github.com/your-username)
+**Name:** Henok
+**Email:** henokmulat27@gmail.com 
+
 
 ---
 
